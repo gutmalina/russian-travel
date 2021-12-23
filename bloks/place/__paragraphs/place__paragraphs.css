@@ -1,0 +1,12 @@
+.place__paragraphs {
+  grid-row: 2/4;
+  max-width: 100%;
+}
+
+@media screen and (max-width: 767px) {
+  .place__paragraphs {
+    grid-row: 4;
+    margin-left: 16px;
+    margin-right: 16px;
+  }
+}
