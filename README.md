@@ -7,3 +7,5 @@
 * grid layout
 * относительных величин
 * а так же создана файловая структура по БЭМ
+
+[Ссылка на проект](https://gutmalina.github.io/russian-travel/index.html)
