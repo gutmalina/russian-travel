@@ -1,4 +1,5 @@
 .header__lang-links {
+  display: flex;
   max-width: calc(100% - 185px);
   margin-bottom: 6px;
 }

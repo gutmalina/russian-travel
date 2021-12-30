@@ -1,10 +1,5 @@
 .place__website {
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-left: 0;
-  list-style: none;
   max-width: 456px;
-  min-height: 46px;
   align-self: self-end;
 }
 @media screen and (max-width: 1023px) {
