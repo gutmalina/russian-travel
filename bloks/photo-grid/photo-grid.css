@@ -17,7 +17,7 @@
     grid-template-columns: repeat(2, 1fr);
     gap: 16px;
     max-width: calc(100% - 48px);
-    margin-bottom: 88px;
+    margin: 0 24px 88px;
   }
 }
 @media screen and (max-width: 767px) {
@@ -25,6 +25,6 @@
     grid-template-columns: repeat(1, 1fr);
     gap: 12px;
     max-width: 90%;
-    margin-bottom: 64px;
+    margin: 0 16px 64px;
   }
 }
