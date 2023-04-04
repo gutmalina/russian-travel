@@ -30,6 +30,9 @@
 .cover__item:hover::before {
   opacity: 0.8;
 }
+.cover__item:hover {
+  opacity: 0.8;
+}
 @media screen and (max-width: 1279px) {
   .cover__item {
     min-height: 640px;
@@ -51,3 +54,4 @@
     padding-right: 5%;
   }
 }
+
